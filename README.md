@@ -1,16 +1,15 @@
-# explore_nav_bar
+# Thingiverse android client
 
-A new Flutter project.
+Мобильный клиент сайта thingiverse.com  
+Разрабатывается с целью изучения возможностей Flutter.
 
-## Getting Started
+## Screenshot-ыы
 
-This project is a starting point for a Flutter application.
+![MergedImages](https://user-images.githubusercontent.com/15833765/175782792-b524cda1-81d3-4056-b176-a67167ff4f93.png)
+![MergedImages (1)](https://user-images.githubusercontent.com/15833765/175782869-768e5dcd-a659-4426-b93c-f051ee5c8df6.png)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Используемое АПИ :  
+https://docs.google.com/document/d/1lUGRNN1bfsl7mQcaJPyfxQfMyIcbFTng7g3apDVtpeI/edit?usp=sharing
+
